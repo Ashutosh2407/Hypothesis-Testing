@@ -1,4 +1,4 @@
-📊 A Hypothesis-Driven Analysis of Daily Spending Patterns (Weekdays vs. Weekends)
+📊 #A Hypothesis-Driven Analysis of Daily Spending Patterns (Weekdays vs. Weekends)
 
 This project applies statistical hypothesis testing to understand whether personal spending behavior differs between weekdays and weekends. Using six months of credit-card transactions, the analysis explores a question I’ve been curious about:
 
